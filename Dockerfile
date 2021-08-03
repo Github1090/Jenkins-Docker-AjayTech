@@ -1,4 +1,4 @@
 FROM openjdk:16.0.1
 EXPOSE 8080
-ADD target/Jenkins-Docker-AjayTech.jar Jenkins-Docker-AjayTech.jar
-ENTRYPOINT ["java", "-jar","/Jenkins-Docker-AjayTech.jar"]
+ADD target/jenkins-docker-ajaytech.jar jenkins-docker-ajaytech.jar
+ENTRYPOINT ["java", "-jar","/jenkins-docker-ajaytech.jar"]
