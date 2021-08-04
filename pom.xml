@@ -12,5 +12,5 @@
         <maven.compiler.source>16</maven.compiler.source>
         <maven.compiler.target>16</maven.compiler.target>
     </properties>
-<build><finalName>Jenkins-Docker-AjayTech</finalName></build>
+<build><finalName>jenkins-docker-ajaytech</finalName></build>
 </project>
